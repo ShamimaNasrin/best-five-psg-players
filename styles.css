@@ -23,3 +23,20 @@ header{
     font-size: 60px;
     font-family: 'Lobster', cursive;
 }
+
+/* player section */
+.card-bg{
+    background-color: black;
+    color: white;
+    width: 1fr;
+}
+.right-card{
+    min-width: 13rem;
+    max-width: 1fr;
+    background-color: black;
+    color: white;
+}
+.select-btn{
+    color: white;
+    background-color: #120E43;
+}

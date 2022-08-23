@@ -4,7 +4,8 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
-header{
+
+header {
     min-height: 70vh;
     max-height: 85vh;
     background: url(./images/header-bg.png);
@@ -12,12 +13,15 @@ header{
     background-position: left bottom;
     object-fit: cover;
 }
-.header-bg{
+
+.header-bg {
     background-color: black;
 }
-.header-text{
+
+.header-text {
     width: 60%;
 }
+
 #header-h1 {
     color: tomato;
     font-size: 60px;
@@ -25,23 +29,30 @@ header{
 }
 
 /* player section */
-.card-bg{
+.card-bg {
     background-color: black;
     color: white;
     width: 1fr;
 }
-.right-card{
+
+.right-card {
     min-width: 13rem;
     max-width: 1fr;
     background-color: black;
     color: white;
 }
-.select-btn{
+
+.select-btn {
     color: white;
     background-color: #120E43;
 }
 
-input{
+input {
     background-color: black;
     max-width: 50%;
+}
+
+.footer {
+    background-color: black;
+    color: white;
 }

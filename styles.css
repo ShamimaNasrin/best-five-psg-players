@@ -40,3 +40,8 @@ header{
     color: white;
     background-color: #120E43;
 }
+
+input{
+    background-color: black;
+    max-width: 50%;
+}
